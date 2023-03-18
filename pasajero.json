@@ -1,0 +1,18 @@
+var JSONObj = {};
+var JSONObj = new Object();
+var JSONObj = { "nombrelibro":"El hacedor", "precio":500 };
+var JSONObj = {
+    "nombre": "Juan",
+    "apellido": "Pérez",
+    "edades": [25, 30, 35]
+  };
+  var JSONObj = {
+    "nombre": "María",
+    "apellido": "González",
+    "edad": 28,
+    "dirección": {
+      "calle": "Calle Falsa",
+      "numero": 123
+    }
+  };
+    
